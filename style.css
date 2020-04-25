@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+    position: fixed;
+    z-index: 99;
+    left: 50%;
+    margin-left: -40%;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav{
+    background-color: black;
+    padding: 10px;
+    width: 100%;
+}
+
+header nav ul div li a{
+    color: white;
+    margin: 20px;
+}
+
+.sectionOne figure img{
+    width: 100%;
+}
+
+.sectionTwo figure img{
+    width: 600px;
+    margin: 0px 50px;
+}
+.sectionTwo{
+    display: flex;
+    padding: 30px;
+}
+
+.sectionTwo div h2{
+    margin-bottom: 20px;
+}
+
+header nav ul img{
+    height: 50px;
+}
+
+header nav ul div{
+    display: flex;
+    margin: 0px 10px;
+}
+
+header nav ul div li{
+    display: flex;
+    margin: 0px 20px;
+    list-style: none;
+    color: white;
+}
+
+
+.sectionFive{
+    display: flex;
+    margin: 0px 20px;
+}
+
+.sectionFive div{
+    margin: 20px;
+}
