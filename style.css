@@ -72,3 +72,7 @@ header nav ul div li{
 .sectionFive div{
     margin: 20px;
 }
+
+.sectionTwo div h2 p {
+    border: white;
+}
