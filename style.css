@@ -84,3 +84,10 @@ header nav ul div li{
     position: relative;
     right: -300;
 }
+
+.sectionFore figure img{
+    width: 1000px;
+    margin: 0px 50px;
+    position: relative;
+    left: -200px;
+}
