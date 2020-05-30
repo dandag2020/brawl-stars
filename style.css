@@ -91,3 +91,8 @@ header nav ul div li{
     position: relative;
     left: -200px;
 }
+
+.timeline1 .timeline2 .timeline3 .timeline4 .timeline5 .timeline6 .timeline7{
+    display: flex;
+    border: lightslategray   ;
+}
